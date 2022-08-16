@@ -14,7 +14,7 @@
 <img align="center" alt=reactNative src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img align="center" alt=python src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
 </div><br/>
-Apaixonado por tecnologia desde novo, atualmente estudante de Ciência da Computação na Universidade Estadual do Ceará, procurando uma oportunidade
+Apaixonado por tecnologia desde a infância, atualmente estudante de Ciência da Computação na Universidade Estadual do Ceará, procurando uma oportunidade
 no mercado de trabalho para aperfeiçoar meus conhecimentos. 
 
 
