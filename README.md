@@ -1,4 +1,5 @@
-### Oi! eu sou o Gabriel Lima 🤙
+### Oi! Eu sou o Gabriel 🤙
+#### Aqui tem diversos projetos que eu mesmo desenvolvi.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-silva-limaa/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabriiel.sll/)
