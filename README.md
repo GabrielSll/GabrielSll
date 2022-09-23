@@ -6,7 +6,7 @@
 
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielSll&show_icons=true&theme=tokyonight)
 
-![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielSll&count_private=true)
+![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielSll&count_private=true&theme=tokyonight)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
