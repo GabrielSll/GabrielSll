@@ -1,4 +1,4 @@
-### Oi! Eu sou o Gabriel 🤙
+### Eae! Gabriel aqui 🤙
 #### Aqui tem diversos projetos que eu mesmo desenvolvi.
 #### Alguns são projetos próprios, outros são projetos que desenvolvi para processos seletivos. 
 
