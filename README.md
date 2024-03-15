@@ -1,7 +1,7 @@
-### Eae! Seja bem vindo 🤙
-#### Aqui tem diversos projetos que eu mesmo desenvolvi.
-#### Alguns são projetos próprios, outros são projetos que desenvolvi para processos seletivos. 
-#### Caso queira tirar alguma dúvida sobre algo, pode me procurar em redes sociais que estou disponível sempre que possível.
+### Hey! Welcome 🤙
+#### Here are several projects that I developed myself.
+#### Some are my own projects, others are projects I developed for selection processes.
+#### If you want to ask any questions about something, you can look for me on social media and I'm available whenever possible.
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22gblx6ckxicxgrlengbjogya&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
