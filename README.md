@@ -3,7 +3,7 @@
 #### Alguns são projetos próprios, outros são projetos que desenvolvi para processos seletivos. 
 #### Caso queira tirar alguma dúvida sobre algo, pode me procurar em redes sociais que estou disponível sempre que possível.
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22gblx6ckxicxgrlengbjogya&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=22gblx6ckxicxgrlengbjogya&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=22gblx6ckxicxgrlengbjogya&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)]]
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-silva-limaa/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabriiel.sll/)
