@@ -8,7 +8,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img height="325" src="https://media.giphy.com/media/d5fMI9ftgQiGzoZoB9/giphy.gif?cid=ecf05e47debmgqaoqk3bkcufmhu98u9aw01r3vc9p8j2glgx&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 </div>
 
