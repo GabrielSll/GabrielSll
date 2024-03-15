@@ -31,7 +31,7 @@
 
 ###
 
-<h6 align="left">Programming Languages</h6>
+<h4 align="left">Programming Languages</h4>
 
 ###
 
@@ -51,7 +51,7 @@
 
 ###
 
-<h6 align="left">Tools & Frameworks</h6>
+<h4 align="left">Tools & Frameworks</h4>
 
 ###
 
