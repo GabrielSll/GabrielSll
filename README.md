@@ -7,7 +7,6 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22gblx6ckxicxgrlengbjogya&cover_image=true&theme=novatorem&show_offline=false&background_color=ffffff&interchange=false&bar_color=b105f0&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-<br>
 
 ### Contact :iphone:
 
