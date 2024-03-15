@@ -7,6 +7,7 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22gblx6ckxicxgrlengbjogya&cover_image=true&theme=novatorem&show_offline=false&background_color=ffffff&interchange=false&bar_color=b105f0&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
+<br>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-silva-limaa/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabriiel.sll/)
