@@ -3,6 +3,7 @@
 ###
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielSll&show_icons=true&theme=dracula)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSll&layout=donut&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ###
@@ -12,7 +13,7 @@
 ###
 
 <div align="left">
-  <img height="400" src="https://media.giphy.com/media/pVGsAWjzvXcZW4ZBTE/giphy.gif" />
+  <img height="400" src="https://giphy.com/embed/fSSGX7IHcqlDYwVYsH" width="480"
 </div>
 
 ###
