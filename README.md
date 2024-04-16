@@ -2,13 +2,11 @@
 
 ###
 
+![giphy (2)](https://github.com/GabrielSll/GabrielSll/assets/63025529/40d0bb91-093a-430d-bdbb-7d933b537e8d)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielSll&show_icons=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSll&layout=donut&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-###
-
-![giphy (1)](https://github.com/GabrielSll/GabrielSll/assets/63025529/24755b46-56d2-438d-91e2-faa7218037d8)
 
 
 <h2 align="left"> 🔥 Skills</h2>
