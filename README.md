@@ -13,7 +13,7 @@
 ###
 
 <div align="left">
-  <img src="https://giphy.com/embed/ChkynEc2Y0f5e" width="480" height="240" frameBorder="0" class="giphy-embed">
+  <img src="https://giphy.com/embed/ChkynEc2Y0f5e" width="480" height="240"/>
 </div>
 
 ###
