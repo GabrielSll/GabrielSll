@@ -3,7 +3,8 @@
 ###
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielSll&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSll&layout=pie)](https://github.com/GabrielSll/github-readme-stats&card_width=320)
+
 
 ###
 
