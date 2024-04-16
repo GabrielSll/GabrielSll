@@ -12,11 +12,8 @@
 
 ###
 
-<div align="left">
-  <img src="https://giphy.com/embed/ChkynEc2Y0f5e" width="480" height="240"/>
-</div>
+![giphy](https://github.com/GabrielSll/GabrielSll/assets/63025529/84363fda-365f-4f95-b86f-2bd40cc6e75c)
 
-###
 
 <h2 align="left"> 🔥 Skills</h2>
 
