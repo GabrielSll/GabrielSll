@@ -8,11 +8,7 @@
 
 ###
 
-<br clear="both">
-
-###
-
-![giphy](https://github.com/GabrielSll/GabrielSll/assets/63025529/84363fda-365f-4f95-b86f-2bd40cc6e75c)
+![giphy (1)](https://github.com/GabrielSll/GabrielSll/assets/63025529/24755b46-56d2-438d-91e2-faa7218037d8)
 
 
 <h2 align="left"> 🔥 Skills</h2>
