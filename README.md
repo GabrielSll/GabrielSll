@@ -1,6 +1,6 @@
 <h2 align="left">Hey! Welcome 🤙<br><br>Here are several projects that I developed myself.<br>Some are my own projects, others are projects I developed for selection processes.</h2>
 
-<h3> My portfolio: [https://gabrielsll.github.io/GabrielDev/](https://gabrielsl-portifolio.netlify.app) </h3>
+<h3> My portfolio: https://gabrielsl-portifolio.netlify.app </h3>
 
 ###
 
