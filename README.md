@@ -4,9 +4,10 @@
 
 ###
 
-![giphy (2)](https://github.com/GabrielSll/GabrielSll/assets/63025529/40d0bb91-093a-430d-bdbb-7d933b537e8d) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielSll&show_icons=true&theme=dracula)
+![giphy (2)](https://github.com/GabrielSll/GabrielSll/assets/63025529/40d0bb91-093a-430d-bdbb-7d933b537e8d) 
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSll&layout=donut&theme=dracula)](https://github.com/GabrielSll/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielSll&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSll&layout=donut&theme=dracula)](https://github.com/GabrielSll/github-readme-stats)
 
 
 
