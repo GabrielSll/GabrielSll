@@ -5,6 +5,7 @@
 | ![GitHub Commits](https://github-readme-streak-stats.herokuapp.com/?user=GabrielSll&theme=radical&ring=e73737&currStreakNum=ffffff&hide_border=true) | ![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielSll&theme=radical) |
 | ![Trophies](https://github-profile-trophy.vercel.app/?username=GabrielSll&row=1&column=6&theme=radical&margin-w=15&margin-h=15) | ![Trophies](https://github-profile-trophy.vercel.app/?username=GabrielSll&row=1&column=6&theme=radical&margin-w=15&margin-h=15) |
 
+<br>
 
  ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -21,12 +22,8 @@
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabriiel.sll/)
   [![Email](https://img.shields.io/badge/Gmail-F51919?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrieldasilvlima@gmail.com)
   
-
 <br>
 
-  <img align="left" height="100" width="90" src="https://imgs.search.brave.com/c3MpN_h1nALFPooz9iHHgrr6m4MjNNnf4poyKZwcJWs/rs:fit:500:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi9iL2JiL1VF/Q0VfMjAyMy5wbmcv/NTEycHgtVUVDRV8y/MDIzLnBuZw" />
-  
-  <br>
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
