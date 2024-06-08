@@ -5,19 +5,21 @@
 | ![GitHub Commits](https://github-readme-streak-stats.herokuapp.com/?user=GabrielSll&theme=radical&ring=e73737&currStreakNum=ffffff&hide_border=true) | ![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielSll&theme=radical) |
 | ![Trophies](https://github-profile-trophy.vercel.app/?username=GabrielSll&row=1&column=6&theme=radical&margin-w=15&margin-h=15) | ![Trophies](https://github-profile-trophy.vercel.app/?username=GabrielSll&row=1&column=6&theme=radical&margin-w=15&margin-h=15) |
 
-<div align="center">
+
  <img align="left" height="70" width="80" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/html5.svg" />
  <img align="left" height="70" width="80" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/css3.svg" />
  <img align="left" height="70" width="80" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/javascript.svg" />
-</div>
+
+
 <br>
 
 💬 **▸ Socials & Contacts:**
 
+<div align="center">
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-silva-limaa)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabriiel.sll/)
   [![Email](https://img.shields.io/badge/Gmail-F51919?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrieldasilvlima@gmail.com)
-
+</div>
 
 <br>
 
