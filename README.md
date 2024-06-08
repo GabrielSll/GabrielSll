@@ -19,7 +19,7 @@
 
 <br>
 
-  <img align="left" height="100" width="90" src="https://www.uninove.br/logo-uninove.svg" />
+  <img align="left" height="100" width="90" src="https://imgs.search.brave.com/c3MpN_h1nALFPooz9iHHgrr6m4MjNNnf4poyKZwcJWs/rs:fit:500:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi9iL2JiL1VF/Q0VfMjAyMy5wbmcv/NTEycHgtVUVDRV8y/MDIzLnBuZw" />
 
 
 ### Education ###
