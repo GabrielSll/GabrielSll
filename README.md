@@ -1,59 +1,42 @@
-<h2 align="left">Hey! Welcome 🤙<br><br>Here are several projects that I developed myself.<br>Some are my own projects, others are projects I developed for selection processes.</h2>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&pause=1500&weight=900&duration=3500&color=FFFFFF&background=FFFFFF00&vCenter=true&width=1000&height=60&lines=🙋‍♂️+Hi+there.+My+name+is+Gabriel+Lima+and+I+am+a+frontend+dev.)
 
-<h3> My portfolio: https://gabrielsl-portifolio.netlify.app </h3>
+| ![Github Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maaclara&layout=compact&theme=radical&&hide=jupyter%20notebook,php,makefile,c%2B%2B,cmake,hack,shell,html,css&langs_count=6&hide_border=True&line_height=20&PAT_1) | ![Athirson's GitHub stats](https://github-readme-stats.vercel.app/api?username=maaclara&include=private&theme=radical&show_icons=true&hide_border=True&line_height=20&PAT_1) |
+| ----------- | ----------- |
+| ![GitHub Commits](https://github-readme-streak-stats.herokuapp.com/?user=GabrielSll&theme=radical&ring=e73737&currStreakNum=ffffff&hide_border=true) | ![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielSll&theme=radical) |
+| ![Trophies](https://github-profile-trophy.vercel.app/?username=GabrielSll&row=1&column=6&theme=radical&margin-w=15&margin-h=15) | ![Trophies](https://github-profile-trophy.vercel.app/?username=GabrielSll&row=1&column=6&theme=radical&margin-w=15&margin-h=15) |
 
-###
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielSll&show_icons=true&theme=dracula)
+ <img align="left" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+ 
+<br>
 
-![giphy (2)](https://github.com/GabrielSll/GabrielSll/assets/63025529/40d0bb91-093a-430d-bdbb-7d933b537e8d) 
+💬 **▸ Socials & Contacts:**
 
-<h2 align="left"> 🔥 Skills</h2>
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-silva-limaa)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabriiel.sll/)
+  [![Email](https://img.shields.io/badge/Gmail-F51919?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrieldasilvlima@gmail.com)
 
-###
 
-<h4 align="left">Programming Languages</h4>
+<br>
 
-###
+  <img align="left" height="100" width="90" src="https://www.uninove.br/logo-uninove.svg" />
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+
+### Education ###
+  **UECE (Universidade Estadual do Ceará)** \
+  Graduation in Computer Science \
+  <i>Dez. 2025</i> - <i>Currently now...</i>
+
+  
+  <br>
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{maaclara}/count.svg" /></p> 
+<br>
 </div>
 
 
-###
-
-<h4 align="left">Tools & Frameworks</h4>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-</div>
-
-###
-
-<h4 align="left">Contact</h4>
-
-###
-
-<div align="left">
-
-   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gabriiel.sll)
-   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-silva-limaa/)
-   
+<div align=center>
+<img height="100em" src="https://user-images.githubusercontent.com/74038190/226127927-3feb953e-cc01-482e-b732-311b2907991f.gif">
 </div>
