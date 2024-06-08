@@ -6,12 +6,9 @@
 | ![Trophies](https://github-profile-trophy.vercel.app/?username=GabrielSll&row=1&column=6&theme=radical&margin-w=15&margin-h=15) | ![Trophies](https://github-profile-trophy.vercel.app/?username=GabrielSll&row=1&column=6&theme=radical&margin-w=15&margin-h=15) |
 
 
- <img align="left" height="70" width="80" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/html5.svg" />
- <img align="left" height="70" width="80" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/css3.svg" />
- <img align="left" height="70" width="80" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/javascript.svg" />
-
-<br>
-<br>
+ ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+ ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+ ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 <br>
 
 💬 **▸ Socials & Contacts:**
@@ -19,17 +16,13 @@
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-silva-limaa)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabriiel.sll/)
   [![Email](https://img.shields.io/badge/Gmail-F51919?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrieldasilvlima@gmail.com)
+  ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
+  ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <br>
 
   <img align="left" height="100" width="90" src="https://imgs.search.brave.com/c3MpN_h1nALFPooz9iHHgrr6m4MjNNnf4poyKZwcJWs/rs:fit:500:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi9iL2JiL1VF/Q0VfMjAyMy5wbmcv/NTEycHgtVUVDRV8y/MDIzLnBuZw" />
-
-
-### Education ###
-  **UECE (Universidade Estadual do Ceará)** \
-  Graduation in Computer Science \
-  <i>Dez. 2025</i> - <i>Currently now...</i>
-
   
   <br>
 
