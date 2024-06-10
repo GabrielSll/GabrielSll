@@ -24,14 +24,6 @@
   
 <br>
 
-
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{GabrielSll}/count.svg" /></p> 
-<br>
-</div>
-
-
 <div align=center>
 <img height="100em" src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif">
 </div>
