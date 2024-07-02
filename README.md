@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&pause=1500&weight=900&duration=3500&color=FFFFFF&background=FFFFFF00&vCenter=true&width=1000&height=60&lines=🙋‍♂️+Hi+there.+My+name+is+Gabriel+Lima+and+I+am+a+frontend+dev.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&pause=1500&weight=900&duration=3500&color=FFFFFF&background=FFFFFF00&vCenter=true&width=1000&height=60&lines=🙋‍♂️+Hi+there.+My+name+is+Gabriel+Lima+and+I+am+a+Frontend+Dev.)
 
 
 
