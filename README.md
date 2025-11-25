@@ -1,10 +1,5 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&pause=1500&weight=900&duration=3500&color=FFFFFF&background=FFFFFF00&vCenter=true&width=1000&height=60&lines=🙋‍♂️+Hi+there.+My+name+is+Gabriel+Lima+and+I+am+a+Backend+Dev.)
 
-
-
-| ![Github Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSll&layout=compact&theme=radical&&hide_border=True&line_height=20&PAT_1) | ![Athirson's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielSll&include=private&theme=radical&show_icons=true&hide_border=True&line_height=20&PAT_1) | 
-| ----------- | ----------- |
-
 <br>
 
  ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
