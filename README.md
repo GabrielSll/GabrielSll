@@ -145,18 +145,3 @@ Me chamo Gabriel Lima, sou formado em Ciência da Computação pela Universidade
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-  ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielSll&show_icons=true&theme=radical)
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSll&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
