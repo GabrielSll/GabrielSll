@@ -98,6 +98,14 @@ Me chamo Gabriel Lima, sou formado em Ciência da Computação pela Universidade
 />
 <img 
     align="left" 
+    alt="Spring" 
+    title="Spring"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
+/>
+<img 
+    align="left" 
     alt="JQuery" 
     title="JQuery"
     width="30px" 
