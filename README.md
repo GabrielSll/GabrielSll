@@ -146,6 +146,6 @@ Me chamo Gabriel Lima, sou formado em Ciência da Computação pela Universidade
 />
 
 <p align="center" margin-top="30%">
-  <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="10%" />
+  <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="20%" />
 </p>
 
