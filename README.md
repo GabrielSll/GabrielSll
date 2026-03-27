@@ -2,7 +2,7 @@
 
 **`Desenvolvedor BackEnd`**
 
-Me chamo Gabriel Lima, sou formado em Ciência da Computação pela Universidade Estadual do Ceará e atuo como Desenvolvedor Back-End com mais de 2 anos e 4 meses de experiência em desenvolvimento e testes de software, adquirida em estágios. Ao longo da minha trajetória, também atuei como Full Stack utilizando Java e JavaScript. Tenho conhecimento intermediário em Java, Spring Boot, SQL, Angular e React, com foco em boas práticas, qualidade de código e construção de soluções escaláveis. Atualmente, busco oportunidades como Desenvolvedor Java Júnior para continuar evoluindo e contribuir com projetos desafiadores na área de tecnologia.
+Me chamo Gabriel Lima, sou formado em Ciência da Computação pela Universidade Estadual do Ceará e atuo como Desenvolvedor Back-End com mais de 2 anos de experiência em desenvolvimento e testes de software, adquirida em estágios. Ao longo da minha trajetória, também atuei como Full Stack utilizando Java e JavaScript. Tenho conhecimento intermediário em Java, Spring Boot, SQL, Angular e React, com foco em boas práticas, qualidade de código e construção de soluções escaláveis. Atualmente, busco oportunidades como Desenvolvedor Java Júnior para continuar evoluindo e contribuir com projetos desafiadores na área de tecnologia.
 
 ---
 
